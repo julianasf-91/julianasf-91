@@ -130,6 +130,7 @@ Desenvolvimento de web scraping para criação de base de dados proprietária co
 ## 📫 Vamos conversar?
 
 💼 LinkedIn: https://www.linkedin.com/in/juliana-sferreira/  
+🗂️ Portfólio: https://julianasf-91.github.io/
 📧 Email: juliana.sf20@gmail.com  
 
 Estou aberta a oportunidades estratégicas em:
